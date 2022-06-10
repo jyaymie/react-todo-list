@@ -1,0 +1,4 @@
+App (State: todos)
+    - AddTodo (Props: todos, setTodos, State: newTodo)
+    - TodoList (Props: todos)
+        -TodoListItem (Not used for this project, but would be great if the list item gets larger)
